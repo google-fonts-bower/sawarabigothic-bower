@@ -1,0 +1,17 @@
+{
+    "name": "sawarabigothic-googlefont",
+    "license": null,
+    "authors": [
+        null
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/sawarabigothic-bower.git"
+    },
+    "description": " font",
+    "keywords": [
+        "font",
+        null
+    ]
+}
